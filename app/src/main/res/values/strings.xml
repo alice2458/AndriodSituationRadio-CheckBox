@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RadioCheckBox</string>
+    <string name="choose">你喜欢的是：</string>
+    <string name="lin">赖冠霖</string>
+    <string name="zha">朴志训</string>
+</resources>
